@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(5, 5, 5);
+}
+#title{
+    text-align: center;
+    text-transform: uppercase;
+    color: antiquewhite;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    size: 9px;
+    margin-top: 10px;
+}
+img{
+    width: 100%;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
+    
+
+}
+#con{
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+    
+}
+
