@@ -12,6 +12,11 @@ div{
     text-align: center;
     size: 9px;
     margin-top: 10px;
+    font-family: "Zilla Slab", serif;
+   font-weight: 400;
+   font-style: normal;
+  
+  
 }
 img{
     width: 100%;
